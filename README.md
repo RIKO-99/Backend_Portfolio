@@ -35,7 +35,7 @@ Addressing potential issues related to payment transactions via the Stripe API.
 ### Getting Started
 Prerequisites: Ensure you have an AirCode account and access to the in-browser IDE.
 
-Installation: Clone the repository and install dependencies using npm install.
+Installation: Clone the repository and install dependencies using npm install. its simple to define your code dependecies in Aircode Environment, You just define them in the dependecies Tab.
 
 Configuration: Set up your environment variables for MongoDB connection and Stripe API keys.
 
